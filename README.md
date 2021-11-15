@@ -12,3 +12,8 @@ Conclusion:
 I found that although the value of the raw data is very big, but if we do preprocess to scale it in to some learnable range, the result will be very good, but I do also find that if I do not preprocess the raw data, the result can be poor, it is because the parameter can be easily affected by noise.
 
  
+Dataset resources used:
+
+https://sensor.informatik.uni-mannheim.de/#dataset_realworld_subject2
+
+https://sensor.informatik.uni-mannheim.de/#dataset_realworld
